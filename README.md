@@ -1,9 +1,9 @@
 <!-- Animated Rainbow Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=RASHMI%20RAJ&fontSize=70&fontColor=fff&animation=twinkling&desc=⚡%20Backend%20Developer%20@%20Wipra%20Solutions%20⚡&descSize=20&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,30&height=230&section=header&text=RASHMI%20RAJ&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%40%20Wipra%20Solutions&descSize=20&descAlignY=58" width="100%"/>
 
 <!-- Color-changing Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rashmi+Raj+👋;Backend+Developer+@+Wipra+Solutions+💼;Java+•+Spring+Boot+•+MySQL+•+AWS+☁️;Building+HRMS+Backend+Systems+🏗️;Always+Learning%2C+Always+Building+🚀" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there!+I+am+Rashmi+Raj;Backend+Developer+%40+Wipra+Solutions;Java+%7C+Spring+Boot+%7C+MySQL+%7C+AWS;Building+HRMS+Backend+Systems;Always+Learning%2C+Always+Building" alt="Typing"/>
 </p>
 
 <p align="center">
