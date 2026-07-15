@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/RASHMI967">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rashmi+Raj+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;I+build+APIs%2C+Databases+%26+Cloud+Apps+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rashmi+Raj+%F0%9F%91%8B;Backend+Developer+%40+Wipra+Solutions+%F0%9F%92%BC;I+build+APIs%2C+Databases+%26+Cloud+Apps+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,6 +18,7 @@
 
 ## 🌸 About Me
 
+- 💼 **Backend Developer @ Wipra Solutions, Ludhiana** — building an HRMS with Spring Boot & MySQL
 - 🎓 **MCA 2026** — Graphic Era Deemed to Be University, Dehradun
 - 💻 I build **backend systems** — REST APIs, database design & cloud deployment
 - 🌱 Currently learning **Spring Security (JWT) • JUnit • Microservices • Redis**
@@ -93,4 +94,3 @@
 
 <!-- Animated Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
