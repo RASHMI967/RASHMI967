@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://rashmi967.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&labelColor=1a1b27"/></a>
   <a href="https://www.linkedin.com/in/rashmi-raj-248400322"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rashmi7055692@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=RASHMI967&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
@@ -131,6 +132,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://rashmi967.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐%20Portfolio-1a1b27?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/rashmi-raj-248400322"><img src="https://img.shields.io/badge/💼%20LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
   <a href="mailto:rashmi7055692@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
   <a href="https://github.com/RASHMI967"><img src="https://img.shields.io/badge/🐙%20GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>
